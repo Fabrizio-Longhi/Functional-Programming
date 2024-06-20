@@ -1,0 +1,17 @@
+Test suite predicados: RUNNING...
+
+cambiar
+  Dado un predicado sobre básicas, cambiar todas las que satisfacen [✔]
+anyDib
+  Alguna básica satisface el predicado [✔]
+allDib
+  Todas las básicas satisfacen el predicado [✔]
+andP
+  Los dos predicados se cumplen para el elemento recibido [✔]
+orP
+  Algún predicado se cumple para el elemento recibido [✔]
+
+Finished in 0.0001 seconds
+5 examples, 0 failures
+Test suite predicados: PASS
+Test suite logged to: /home/fabrizio/Facultad/TercerAño/PdP/lab1/grupo_09_lab1_2024/dist-newstyle/build/x86_64-linux/ghc-9.4.8/dibujos-0.1.0.0/t/predicados/test/dibujos-0.1.0.0-predicados.log

@@ -1,0 +1,56 @@
+Test suite dibujo: RUNNING...
+
+figura
+  Crea una figura [✔]
+rotar
+  Rota una figura [✔]
+espejar
+  Espeja una figura [✔]
+rot45
+  Rota 45 grados una figura [✔]
+apilar
+  Apila dos figuras [✔]
+juntar
+  Junta dos figuras [✔]
+encimar
+  Encima dos figuras [✔]
+r180
+  Rota 180 grados una figura [✔]
+r270
+  Rota 270 grados una figura [✔]
+.-.
+  Pone una figura sobre la otra, ambas ocupan el mismo espacio [✔]
+///
+  Pone una figura al lado de la otra, ambas ocupan el mismo espacio [✔]
+^^^
+  Superpone una figura con otra [✔]
+cuarteto
+  Dadas cuatro figuras las ubica en los cuatro cuadrantes [✔]
+encimar4
+  Una figura repetida con las cuatro rotaciones superpuestas [✔]
+ciclar
+  Un cuadrado con la misma figura rotada i * 90, i = 0, 1, 2, 3 [✔]
+foldDib
+  foldDib con figura [✔]
+  foldDib con rotar [✔]
+  foldDib con espejar [✔]
+  foldDib con rot45 [✔]
+  foldDib con apilar [✔]
+  foldDib con juntar [✔]
+  foldDib con encimar [✔]
+mapDib
+  mapDib con figura [✔]
+  mapDib con rotar [✔]
+  mapDib con espejar [✔]
+  mapDib con rot45 [✔]
+  mapDib con apilar [✔]
+  mapDib con juntar [✔]
+  mapDib con encimar [✔]
+figuras
+  Junta todas las figuras basicas de un dibujo [✔]
+  Ahora con un ejemplo mas complejo [✔]
+
+Finished in 0.0007 seconds
+31 examples, 0 failures
+Test suite dibujo: PASS
+Test suite logged to: /home/fabrizio/Facultad/TercerAño/PdP/lab1/grupo_09_lab1_2024/dist-newstyle/build/x86_64-linux/ghc-9.4.8/dibujos-0.1.0.0/t/dibujo/test/dibujos-0.1.0.0-dibujo.log
